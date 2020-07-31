@@ -5,6 +5,9 @@ import datetime
 import csv
 
 # to calculate the number of hours between start and end times for the working period
+# to calculate the number of hours between start and end times for the working period
+# to calculate the number of hours between start and end times for the working period
+# to calculate the number of hours between start and end times for the working period
 
 
 def timeDifference(start, end):
